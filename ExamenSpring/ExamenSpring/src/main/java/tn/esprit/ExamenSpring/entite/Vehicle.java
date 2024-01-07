@@ -6,10 +6,10 @@ import lombok.*;
 import java.util.Set;
 
 @Entity
-@Data
+//@Data
 @NoArgsConstructor
 @AllArgsConstructor
-@Builder
+//@Builder
 @Getter
 @Setter
 public class Vehicle {

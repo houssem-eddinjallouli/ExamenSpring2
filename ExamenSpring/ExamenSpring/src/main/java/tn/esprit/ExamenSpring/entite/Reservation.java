@@ -7,10 +7,10 @@ import java.time.LocalDateTime;
 import java.util.Set;
 
 @Entity
-@Data
+//@Data
 @NoArgsConstructor
 @AllArgsConstructor
-@Builder
+//@Builder
 @Getter
 @Setter
 public class Reservation {
